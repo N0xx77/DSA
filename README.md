@@ -10,17 +10,17 @@
 
 Welcome to my DSA repository!
 
-This repository documents my journey of solving Data Structures and Algorithms problems, primarily from **LeetCode**, using **Java**.
+This repository documents my journey of solving Data Structures and Algorithms problems, primarily from **LeetCode**
 
 The goal is not only to solve problems but also to understand the underlying patterns and build strong problem-solving skills for technical interviews.
 
 Each problem includes:
 
-* ✅ Clean Java solution
-* 💡 Intuition
-* 📝 Approach
+* ✅ Clean solution
 * ⏱️ Time Complexity
 * 📦 Space Complexity
+* 💡 Intuition (when applicable)
+* 📝 Approach (when applicable)
 * 🔍 Dry Run (when applicable)
 
 ---
