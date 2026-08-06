@@ -4,8 +4,8 @@ Dynamic Programming is a technique used to solve problems by breaking them into 
 
 ## Problems
 
-| # | Problem | Difficulty | LeetCode | Folder |
-|---|---------|------------|----------|--------|
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟠 Medium | 🔗 | [📂](./0062%20-%20Unique%20Paths/) |
+| # | Problem | Difficulty  | Folder |
+|---|---------|------------|--------|
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟠 Medium | [📂](./0062%20-%20Unique%20Paths/) |
 
 More problems will be added over time.
