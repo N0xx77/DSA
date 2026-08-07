@@ -7,5 +7,6 @@ Dynamic Programming is a technique used to solve problems by breaking them into 
 | # | Problem | Difficulty  | Folder |
 |---|---------|------------|--------|
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟠 Medium | [📂](./0062%20-%20Unique%20Paths/) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | [📂](./0118%20-%20Pascal's%20Triangle/) |
 
 More problems will be added over time.
