@@ -20,5 +20,6 @@ Dynamic Programming is a technique used to solve problems by breaking them into 
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/)                                       | 🟠 Medium  | [📂](./0198%20-%20House%20Robber/)                              |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                 | 🟠 Medium  | [📂](./0213%20-%20House%20Robber%20II/)                         |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/)                                         | 🟠 Medium  | [📂](./0322%20-%20Coin%20Change/)                               |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                     | 🟢 Easy    | [📂](./0338%20-%20Counting%20Bits/)                               |
 
 More problems will be added over time.
