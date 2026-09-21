@@ -1,16 +1,18 @@
-# Arrays
+# Two Pointers
 
-Problems that use **arrays** as the primary data structure, including traversal, searching, sorting, two pointers, matrix manipulation, cyclic sort, and other array-based techniques.
+The **Two Pointers** technique solves problems by maintaining **two pointers** that move through an array, string, or linked list according to specific conditions.
+
+It is commonly used to reduce problems from **`O(n²)`** to **`O(n)`**, although some variations may have different complexities.
 
 ## Problems
 
-| #    | Problem                                                                                                             | Difficulty | Folder                                                                   |
-| ---- | ------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ |
-| 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                     | 🟢 Easy    | [📂](./0027%20-%20Remove%20Element/)                                     |
-| 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                       | 🟡 Medium  | [📂](./0054%20-%20Spiral%20Matrix/)                                      |
-| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                             | 🟢 Easy    | [📂](./0088%20-%20Merge%20Sorted%20Array/)                               |
-| 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                       | 🟢 Easy    | [📂](./0136%20-%20Single%20Number/)                                      |
-| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 Easy    | [📂](./0448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) |
-| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)                 | 🟢 Easy    | [📂](./1266%20-%20Minimum%20Time%20Visiting%20All%20Points/)             |
+| #   | Problem                                                                                               | Difficulty | Folder                                                               |
+| --- | ----------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------- |
+| 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                           | 🟡 Medium  | [📂](./0015%20-%203Sum/)                                             |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/)                                       | 🟢 Easy    | [📂](./0027%20-%20Remove%20Element/)                                 |
+| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                               | 🟢 Easy    | [📂](./0088%20-%20Merge%20Sorted%20Array/)                           |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium  | [📂](./0167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) |
+| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                 | 🟡 Medium  | [📂](./0845%20-%20Longest%20Mountain%20in%20Array/)                  |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                 | 🟢 Easy    | [📂](./0977%20-%20Squares%20of%20a%20Sorted%20Array/)                |
 
 More problems will be added over time.
