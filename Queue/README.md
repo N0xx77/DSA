@@ -10,7 +10,6 @@ Queue problems commonly involve **FIFO operations, queue implementation, circula
 
 | #   | Problem                                                                                     | Difficulty | Folder                                                 |
 | --- | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------ |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟡 Medium  | [📂](./0225%20-%20Implement%20Stack%20using%20Queues/) |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy    | [📂](./0232%20-%20Implement%20Queue%20using%20Stacks/) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy    | [📂](./0225%20-%20Implement%20Stack%20using%20Queues/) |
 
 More problems will be added over time.
