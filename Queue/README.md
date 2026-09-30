@@ -8,8 +8,9 @@ Queue problems commonly involve **FIFO operations, queue implementation, circula
 
 ## Problems
 
-| #   | Problem                                                                                     | Difficulty | Folder                                                 |
-| --- | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------ |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy    | [📂](./0225%20-%20Implement%20Stack%20using%20Queues/) |
+| #    | Problem                                                                                     | Difficulty | Folder                                                 |
+| ---- | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------ |
+| 225  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy    | [📂](./0225%20-%20Implement%20Stack%20using%20Queues/) |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)     | 🟢 Easy    | [📂](./2073%20-%20Time%20Needed%20to%20Buy%20Tickets/) |
 
 More problems will be added over time.
