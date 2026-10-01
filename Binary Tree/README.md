@@ -15,6 +15,6 @@ Common traversal techniques include:
 
 | #   | Problem                                                                                             | Difficulty | Folder                                                         |
 | --- | --------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------- |
-| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟡 Medium  | [📂](./0637%20-%20Average%20of%20Levels%20in%20Binary%20Tree/) |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟢 Easy | [📂](./0637%20-%20Average%20of%20Levels%20in%20Binary%20Tree/) |
 
 More problems will be added over time.
