@@ -10,9 +10,10 @@ Stack problems commonly involve **LIFO operations, expression evaluation, monoto
 
 | #   | Problem                                                                                             | Difficulty | Folder                                                     |
 | --- | --------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------- |
-| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                               | 🟢 Easy    | [📂](./0020%20-%20Valid%20Parentheses/)                    |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium  | [📂](./0150%20-%20Evaluate%20Reverse%20Polish%20Notation/) |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                               | 🟡 Medium  | [📂](./0155%20-%20Min%20Stack/)                            |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)         | 🟢 Easy    | [📂](./0232%20-%20Implement%20Queue%20using%20Stacks/)     |
+| 20  | [Valid Parentheses]([https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/))                               | 🟢 Easy    | [📂](./0020%20-%20Valid%20Parentheses/)                    |
+| 150 | [Evaluate Reverse Polish Notation]([https://leetcode.com/problems/evaluate-reverse-polish-notation/](https://leetcode.com/problems/evaluate-reverse-polish-notation/)) | 🟡 Medium  | [📂](./0150%20-%20Evaluate%20Reverse%20Polish%20Notation/) |
+| 155 | [Min Stack]([https://leetcode.com/problems/min-stack/](https://leetcode.com/problems/min-stack/))                                               | 🟡 Medium  | [📂](./0155%20-%20Min%20Stack/)                            |
+| 232 | [Implement Queue using Stacks]([https://leetcode.com/problems/implement-queue-using-stacks/](https://leetcode.com/problems/implement-queue-using-stacks/))         | 🟢 Easy    | [📂](./0232%20-%20Implement%20Queue%20using%20Stacks/)     |
+| 1021 | [Remove Outermost Parentheses]([https://leetcode.com/problems/remove-outermost-parentheses/](https://leetcode.com/problems/remove-outermost-parentheses/)) | 🟢 Easy    | [📂](./1021%20-%20Remove%20Outermost%20Parentheses/)        |
 
 More problems will be added over time.
