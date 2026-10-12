@@ -10,17 +10,19 @@ Backtracking is commonly used for **subsets, combinations, permutations, and con
 
 ## Problems
 
-| #   | Problem                                                                                                       | Difficulty | Folder                                                              |
-| --- | ------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------- |
-| 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium  | [📂](./0017%20-%20Letter%20Combinations%20of%20a%20Phone%20Number/) |
-| 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                   | 🟡 Medium  | [📂](./0022%20-%20Generate%20Parentheses/)                          |
-| 46  | [Permutations](https://leetcode.com/problems/permutations/)                                                   | 🟡 Medium  | [📂](./0046%20-%20Permutations/)                                    |
-| 77  | [Combinations](https://leetcode.com/problems/combinations/)                                                   | 🟡 Medium  | [📂](./0077%20-%20Combinations/)                                    |
-| 78  | [Subsets](https://leetcode.com/problems/subsets/)                                                             | 🟡 Medium  | [📂](./0078%20-%20Subsets/)                                         |
-| 93  | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)                                   | 🟡 Medium  | [📂](./0093%20-%20Restore%20IP%20Addresses/)                        |
-| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                             | 🟡 Medium  | [📂](./0131%20-%20Palindrome%20Partitioning/)                       |
-| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                             | 🟡 Medium  | [📂](./0784%20-%20Letter%20Case%20Permutation/)                     |
-| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)                                           | 🔴 Hard    | [📂](./0980%20-%20Unique%20Paths%20III/)                            |
-| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)                         | 🟡 Medium  | [📂](./1079%20-%20Letter%20Tile%20Possibilities/)                   |
+| #    | Problem | Difficulty | Folder |
+| ---- | ------- | ---------- | ------ |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | [📂](./0017%20-%20Letter%20Combinations%20of%20a%20Phone%20Number/) |
+| 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | [📂](./0022%20-%20Generate%20Parentheses/) |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | [📂](./0046%20-%20Permutations/) |
+| 51   | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 Hard | [📂](./0051%20-%20N-Queens/) |
+| 77   | [Combinations](https://leetcode.com/problems/combinations/) | 🟡 Medium | [📂](./0077%20-%20Combinations/) |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | [📂](./0078%20-%20Subsets/) |
+| 93   | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium | [📂](./0093%20-%20Restore%20IP%20Addresses/) |
+| 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 Medium | [📂](./0131%20-%20Palindrome%20Partitioning/) |
+| 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | 🟡 Medium | [📂](./0784%20-%20Letter%20Case%20Permutation/) |
+| 886  | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | 🟡 Medium | [📂](./0886%20-%20Possible%20Bipartition/) |
+| 980  | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | 🔴 Hard | [📂](./0980%20-%20Unique%20Paths%20III/) |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | 🟡 Medium | [📂](./1079%20-%20Letter%20Tile%20Possibilities/) |
 
 More problems will be added over time.
