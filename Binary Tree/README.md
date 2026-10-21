@@ -21,7 +21,7 @@ Common traversal techniques include:
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 🟢 Easy | [📂](./0111%20-%20Minimum%20Depth%20of%20Binary%20Tree/) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | [📂](./0112%20-%20Path%20Sum/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | [📂](./0226%20-%20Invert%20Binary%20Tree/) |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | [📂](./236%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%Tree/) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | [📂](./236%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | [📂](./0543%20-%20Diameter%20of%20Binary%20Tree/) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟢 Easy | [📂](./0637%20-%20Average%20of%20Levels%20in%20Binary%20Tree/) |
 
