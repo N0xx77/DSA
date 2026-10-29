@@ -16,5 +16,7 @@ Graph problems can involve algorithms such as **shortest path, traversal, connec
 | 886  | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | 🟡 Medium | [📂](./0886%20-%20Possible%20Bipartition/) |
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | 🟡 Medium | [📂](./1514%20-%20Path%20with%20Maximum%20Probability/) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 Medium | [📂](./1584%20-%20Min%20Cost%20to%20Connect%20All%20Points/) |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | 🔴 Hard | [📂](./2290%20-%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/) |
+| 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | 🟡 Medium | [📂](./3342%20-%20Find%20Minimum%20Time%20to%20Reach%20Last%20Room%20II/) |
 
 More problems will be added over time.
