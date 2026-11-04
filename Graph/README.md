@@ -10,6 +10,7 @@ Graph problems can involve algorithms such as **shortest path, traversal, connec
 
 | #    | Problem | Difficulty | Folder |
 | ---- | ------- | ---------- | ------ |
+| 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/?envType=problem-list-v2&envId=graph) | 🟡 Medium | [📂](./0684%20-%20Redundant%20Connection/) |
 | 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | 🟡 Medium | [📂](./0743%20-%20Network%20Delay%20Time/) |
 | 787  | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | [📂](./0787%20-%20Cheapest%20Flights%20Within%20K%20Stops/) |
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | [📂](./0797%20-%20All%20Paths%20From%20Source%20to%20Target/) |
